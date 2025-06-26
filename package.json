@@ -5,7 +5,7 @@
   "description": "Enterprise Contract Policy Builder",
   "homepage": "https://enterprisecontract.dev/policy_builder/",
   "bugs": {
-    "url": "https://github.com/enterprise-contract/policy_builder/issues"
+    "url": "https://github.com/conforma/policy-builder/issues"
   },
   "license": "Apache-2.0",
   "author": {
